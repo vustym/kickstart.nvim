@@ -459,10 +459,6 @@ require('which-key').register({
 --  define the property 'filetypes' to the map in question.
 local servers = {
   clangd = {},
-  cmakelang = {},
-  cpptools = {},
-  cpplint = {},
-
   -- gopls = {},
   -- pyright = {},
   -- rust_analyzer = {},
